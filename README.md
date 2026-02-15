@@ -1,4 +1,5 @@
-﻿#VScode-lite
+
+ #VScode-lite
 {
   "editor.fontFamily": "JetBrains Mono", 
   // Define a fonte do editor.
@@ -121,3 +122,4 @@
   // Não pede confirmação ao arrastar arquivos.
 
 }
+
